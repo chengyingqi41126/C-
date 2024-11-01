@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\23052104\test\test\test.cpp(10,38): error C2440: “初始化”: 无法从“const char [4]”转换为“char *”
+E:\23052104\test\test\test.cpp(10,38): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
